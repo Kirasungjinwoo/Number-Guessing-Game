@@ -1,2 +1,1 @@
-# Number-Guessing-Game
-Just a normal number guessing game... Run it.
+Hey! I'm Vishanth, and this is my first project on GitHub!
