@@ -1,5 +1,6 @@
 import random
-num = random.randint(0, 100)
+max = int(input("Enter upper limit:"))
+num = random.randint(0, max)
 guess = int(input("Guess the number:"))
 count = 0
 while guess != num:
